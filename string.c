@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//teqtqrqtwq
 int my_strlen(char *s)
 {
    char *p = s;
