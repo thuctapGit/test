@@ -1,5 +1,7 @@
 #include <stdio.h>
-
+//add new feature 
+///.......
+//
 int my_strlen(char *s)
 {
    char *p = s;
