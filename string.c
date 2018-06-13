@@ -1,4 +1,7 @@
 #include <stdio.h>
+// them chuc nang moi v1.1
+// ----
+// 
 
 int my_strlen(char *s)
 {
